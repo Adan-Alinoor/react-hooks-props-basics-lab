@@ -7,6 +7,7 @@ function Home(props) {
         {props.name} is a Web Developer from {props.city}
       </h1>
     </div>
+    
   );
 }
 
